@@ -1,0 +1,9 @@
+# OS X
+._*
+.DS_Thumbs
+
+# Python
+__pycache__
+
+# Heroku
+.env

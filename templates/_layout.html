@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css" integrity="sha384-y3tfxAZXuh4HwSYylfB+J125MxIs6mR5FOHamPBG064zB+AFeWH94NdvaCBm8qnd" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/app.css">
+
+    <title>{% block title %}crooked.ventures{% endblock %}</title>
+  </head>
+  <body>
+    <div class="container">
+
+      <div class="card card-block m-t-2">
+        <h1 class="text-xs-center h2"><tt>crooked.ventures</tt></h1>
+        <p class="card-text text-xs-center"><i>"You can trust us to be crooked."</i></p>
+      </div>
+
+      {% block content %}{% endblock %}
+    </div>
+
+    {% if google_analytics_id %}
+      <script>
+        window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+        ga('create', '{{ google_analytics_id }}', 'auto');
+        ga('send', 'pageview');
+      </script>
+      <script async src='https://www.google-analytics.com/analytics.js'></script>
+    {% endif %}
+
+    <script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
+    {% block pagescripts %}{% endblock %}
+  </body>
+</html>

@@ -1,0 +1,57 @@
+{% extends '_layout.html' %}
+
+{% block content %}
+  <div class="card card-block m-t-2 m-b-2">
+    <ul class="card-text list-inline text-xs-center">
+      <li class="list-inline-item">
+        <a href="https://github.com/i-c">
+          <span class="fa-stack fa-lg">
+            <i class="fa fa-square fa-stack-2x" style="color: #fff;"></i>
+            <i class="fa fa-github-alt fa-stack-2x" style="color: #333;"></i>
+          </span>
+
+          <span class="sr-only">i-c on Github</span>
+        </a>
+      </li>
+
+      <li class="list-inline-item">
+        <a href="https://twitter.com/coppian">
+          <span class="fa-stack fa-lg">
+            <i class="fa fa-square fa-stack-2x" style="color: #fff;"></i>
+            <i class="fa fa-twitter-square fa-stack-2x" style="color: #55acee;"></i>
+          </span>
+
+          <span class="sr-only">coppian on Twitter</span>
+        </a>
+      </li>
+
+      <li class="list-inline-item">
+        <a href="https://www.linkedin.com/in/iancopp">
+          <span class="fa-stack fa-lg">
+            <i class="fa fa-square fa-stack-2x" style="color: #fff;"></i>
+            <i class="fa fa-linkedin-square fa-stack-2x" style="color: #0976b4;"></i>
+          </span>
+
+          <span class="sr-only">iancopp on LinkedIn</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+
+  <div class="card-deck-wrapper">
+    <div class="card-deck">
+      <div class="card">
+        <div class="card-block">
+          <h4 class="card-title text-xs-center"><a href="https://literally.deals">literally.deals</a></h4>
+          <p class="card-text text-xs-center">"Those sure are some deals that exist."</p>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-block">
+          <h4 class="card-title text-xs-center"><a href="https://www.lintable.com">Lintable</a></h4>
+          <p class="card-text text-xs-center">A commit-comparative CI-style linter.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endblock %}
