@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/coppian
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://crooked.ventures
+  * I am coppian (https://keybase.io/coppian) on keybase.
+  * I have a public key ASAxG0dIVS0bu3u1Mf-KeITn2oT1I8VI4Y0PrkM6lSg3DQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120311b4748552d1bbb7bb531ff8a7884e7da84f523c548e18d0fae433a9528370d0a",
+            "host": "keybase.io",
+            "kid": "0120311b4748552d1bbb7bb531ff8a7884e7da84f523c548e18d0fae433a9528370d0a",
+            "uid": "e7d8e32fe4075fd54f7156cdf8f07019",
+            "username": "coppian"
+        },
+        "service": {
+            "hostname": "crooked.ventures",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1474498250,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1474498221,
+        "hash": "21819b485da87f148cd32ccaf5467a82e1c833dad11e97e634d0357f6e0f9786a0117632095a352516a69b36248dcba5d2ec7f6cabbbe11f05f24a345558116c",
+        "seqno": 647604
+    },
+    "prev": "528772c6b22dfba886ff412e43e3e967c743d687af3816619fa655ea0e287d7b",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgMRtHSFUtG7t7tTH/iniE59qE9SPFSOGND65DOpUoNw0Kp3BheWxvYWTFAvZ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMzExYjQ3NDg1NTJkMWJiYjdiYjUzMWZmOGE3ODg0ZTdkYTg0ZjUyM2M1NDhlMThkMGZhZTQzM2E5NTI4MzcwZDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMzExYjQ3NDg1NTJkMWJiYjdiYjUzMWZmOGE3ODg0ZTdkYTg0ZjUyM2M1NDhlMThkMGZhZTQzM2E5NTI4MzcwZDBhIiwidWlkIjoiZTdkOGUzMmZlNDA3NWZkNTRmNzE1NmNkZjhmMDcwMTkiLCJ1c2VybmFtZSI6ImNvcHBpYW4ifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImNyb29rZWQudmVudHVyZXMiLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE3In0sImN0aW1lIjoxNDc0NDk4MjUwLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NzQ0OTgyMjEsImhhc2giOiIyMTgxOWI0ODVkYTg3ZjE0OGNkMzJjY2FmNTQ2N2E4MmUxYzgzM2RhZDExZTk3ZTYzNGQwMzU3ZjZlMGY5Nzg2YTAxMTc2MzIwOTVhMzUyNTE2YTY5YjM2MjQ4ZGNiYTVkMmVjN2Y2Y2FiYmJlMTFmMDVmMjRhMzQ1NTU4MTE2YyIsInNlcW5vIjo2NDc2MDR9LCJwcmV2IjoiNTI4NzcyYzZiMjJkZmJhODg2ZmY0MTJlNDNlM2U5NjdjNzQzZDY4N2FmMzgxNjYxOWZhNjU1ZWEwZTI4N2Q3YiIsInNlcW5vIjo4LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQHntoQcwe+HNIdzuwXVjGBgvlOPyMAGfqr2gmfNkDaL2e0oM7rdHlhLrLWQSQ9xy5/ZvDUCBWS6hCPQb0qF4Uwqoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDbUzRdB5k0BzcRbGwphY5Gz6aA06Yq2SBE+HXYt/jaS6N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/coppian
+
+==================================================================
